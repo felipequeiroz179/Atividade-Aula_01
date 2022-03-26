@@ -1,0 +1,36 @@
+.DivA{
+    margin: auto;
+    background-color: #ff0000; 
+    height: 900px; 
+    width: 900px;
+}
+
+.DivB {
+    margin: auto;
+    background-color: #0099ff; 
+    height: 50%; 
+    width: 50%;
+}
+
+.Paragrafo1 {
+    margin: auto;
+    color: #ffff; 
+    background-color: #cc00ff; 
+    font-size: 25px; 
+    font-family: monospace; 
+    font-weight: bold; 
+}
+
+.DivD {
+    margin: auto;
+    width: 75%; 
+    height: 50%vh; 
+    background-color: rgb(236, 234, 113);
+}
+
+.DivE {
+    margin: auto;
+    width: 50%; 
+    height: 50%; 
+    background-color: rgb(16, 0, 236);
+}
